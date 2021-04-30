@@ -6,6 +6,7 @@
 - 깃 허브에 있는 소스 클론
 - SW 설치 : https://www.python.org/downloads/ (파이썬), VS code (IDE, 파이썬확장팩 설치)
 - 터미널을 PS(파워쉘)에서 cmd(명령프롬프트)로 변경 정보: m.blog.naver.com/wideeyed/221837368919
+- [강조]: python을 환경변수에 추가하면 python명령어 없이도 py파일을 실행할 수 있다(즉, 아래 명령중 python -m 은 필요없음)
 - python -m pip install --upgrade pip (파이선 인스톨 패키지버전을 최신으로 변경)
 - pip install virtualenv virtualenvwrapper-win (가상환경모듈 설치)
 - mkvirtualenv human (윈도우에 가상환경 만들기)
