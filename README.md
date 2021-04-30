@@ -30,5 +30,6 @@
 ### 신규프로젝트 생성시 누락부분 추가
 - Django-kimilguk 폴더를 프로젝트 환경으로 만들어야 settings.py 파일이 만들어진다.(아래)
   (가상환경) ~/Django-kimilguk django-admin startproject mysite (mysite라는 폴더와 함께 장고 프로젝트 환경 구축됨.settings.py 파일생성)
+- 최상위 프로젝트명은 내부 프로젝트명과 헷갈릴수 있기 때문에 변경한다.
 - 앱생성 : 프로젝트에 kik_profile 이라는 앱을 생성 합니다. 
   (가상환경) ~/Django-kimilguk python manage.py startapp kik_profile
