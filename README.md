@@ -12,7 +12,7 @@
 - workon (가상개발환경 이름 확인)
 - workon human (가상개발환경 선택)
 - python -m pip install --upgrade pip (파이선 인스톨 패키지버전을 최신으로 변경)
-- 강조: 가상환경 안에서 장고를 설치하고 프로젝트를 추가하고, 앱을 생성합니다.
+- [강조]: 가상환경 안에서 장고를 설치하고 프로젝트를 추가하고, 앱을 생성합니다.
 - python -m pip install django (필요시설치)
 - python -m pip install Pillow (필요시설치)
 - 아래 신규프로젝트 생성시 누락부분이 필요하면 추가 하고 다음 진행
